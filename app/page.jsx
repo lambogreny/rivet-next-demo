@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <>
       <h1 style={{ fontSize: 44, margin: "0 0 12px" }}>
-        Hello world  bom<span style={{ color: "#a78bfa" }}>from Rivet</span> 👋
+        5555 Hello world  bom<span style={{ color: "#a78bfa" }}>from Rivet</span> 👋
       </h1>
       <p style={{ fontSize: 18, lineHeight: 1.6, color: "#b8b8c6" }}>
         This is a Next.js app built from a Git commit, scanned, signed, and
