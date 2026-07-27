@@ -13,7 +13,7 @@ export default function About() {
     <>
       <h1 style={{ fontSize: 36, margin: "0 0 12px" }}>About this demo</h1>
       <p style={{ fontSize: 18, lineHeight: 1.6, color: "#b8b8c6" }}>
-        A minimal multi-page Next.js 15 app (App Router, standalone output) that
+        bom A minimal multi-page Next.js 15 app (App Router, standalone output) that
         runs as a container on Rivet&apos;s Kubernetes runtime. It exists to
         prove the full path works: navigation between server-rendered pages, an
         API route, and structured stdout logging.
