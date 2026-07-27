@@ -10,7 +10,7 @@ export async function GET() {
     }),
   );
   return Response.json({
-    message: "Hello from Rivet — built, scanned, signed, deployed.",
+    message: "Hello from Rivet — auto-CI/CD works!",
     time: new Date().toISOString(),
   });
 }
