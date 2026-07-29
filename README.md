@@ -11,3 +11,5 @@ A tiny Next.js 15 (App Router) hello-world for testing a Rivet deploy end to end
 
 ## Build on Rivet
 Point a Rivet service at this repo, build mode **dockerfile**, port **8080**.
+
+<!-- rivet e2e deploy test: b854864 alpha pipeline -->
